@@ -1,2 +1,2 @@
 # Course-Assignments
-Assignments done in IIT Madras
+Assignments from courses, Pattern Recognition and Machine Learning, Deep Learning, Statistical Learning Theory.
